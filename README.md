@@ -11,9 +11,6 @@
   <a href="mailto:sauravgariya040@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://sauravgariya17.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -73,9 +70,9 @@
     <b>Stack:</b> C
   </td>
   <td width="50%">
-    <h4>📚 <a href="https://github.com/sauravgariya17/DSA---practice">DSA Practice</a></h4>
-    My Data Structures & Algorithms solutions built for placement preparation.<br/>
-    <b>Stack:</b> C++
+    <h4>🛡️ <a href="https://github.com/sauravgariya17/Phishing-Email-Detector">Phishing Email Detector</a></h4>
+    An ML-powered cybersecurity tool that classifies emails as phishing or legitimate using NLP, with a Flask backend and React frontend.<br/>
+    <b>Stack:</b> Python, NLP, Flask, React
   </td>
 </tr>
 </table>
